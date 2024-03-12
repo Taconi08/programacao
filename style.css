@@ -3,7 +3,7 @@ body{
         }
 
 img{
-        width: 100%;
+        width: 80%;
 }
 
 .titulo-principal{
@@ -20,7 +20,7 @@ h1, p{
 
 
 em{
-        color: rgb(51, 104, 60);
+        color: rgb(161, 17, 17);
 }
 
 #missao{
@@ -29,4 +29,26 @@ em{
 
 .itens{
         font-style: italic;
+}
+
+.principal{
+        background-color: #cccccc;
+        padding: 30px;
+}
+
+ul{
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+}
+
+.beneficios{
+        background-color: white;
+        padding: 20px;
+
+}
+
+.img-beneficios{
+        width: 50%;
 }
