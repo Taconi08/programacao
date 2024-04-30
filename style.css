@@ -143,3 +143,16 @@
    background: rgb(185, 1, 1);
    transform: scale(1.2);
  }
+
+table{
+   margin: 20px 0 20px;
+}
+thead{
+   background-color: rgb(121, 13, 13);
+   color: rgba(255, 255, 255, 0.918);
+   font-weight: bold;
+}
+td, tr{
+   border: 1px solid rgb(0, 0, 0);
+   padding: 8px 15px;
+}
